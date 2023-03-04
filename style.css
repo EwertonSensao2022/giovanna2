@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+body{
+    background-color: rgba(159, 226, 238, 0.651);
+    margin: 50px 50px;
+}
+h1{
+    color: rgba(57, 29, 133, 0.801);
+    text-align: center;
+    text-shadow: 2px 1px rgb(235, 180, 167);
+}
+p{
+    background-color: rgb(240, 191, 241);
+    border: 2px solid black;
+    padding: 10px;
+    }
+img{
+    width: 200px;
+}
